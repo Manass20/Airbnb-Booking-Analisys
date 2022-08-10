@@ -1,4 +1,6 @@
 # Airbnb-Booking-Analisys
+![Feature-Image_The-Ultimate-Guide-to-Airbnb-Reviews@2x-scaled](https://user-images.githubusercontent.com/103633582/183978130-2aa4e5e5-6e41-4c58-9ae1-96cf1a812c06.png)
+
 ## Problem Statemet:
 Do exploratory data analysis(EDA) and explore and analyze the data to discover key understandings
 ## Inspiraton:
